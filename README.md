@@ -1,2 +1,0 @@
-# porofolioTheme
-porofolioThemeBootstrab
